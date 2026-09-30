@@ -18,7 +18,7 @@ A simple customer support chatbot built in Google Colab using the Google Gemini 
 ## Tech Stack
 
 - Python
-- Google Colab / Jupyter Notebook
+- Google Colab 
 - Google Gemini API (`google-genai` library)
 
 ## Installation
